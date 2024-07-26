@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Microsoft-365
 Scripts and other resources to help configure Microsoft 365. Latest and greatest scripts are located in the zip files in this directory:
 <b>- ZeroTrustScripts.zip:</b> Corresponds to the scripts described in my Zero Trust Guide for the SMB, including Conditional Access baselines.
@@ -22,3 +23,6 @@ Legacy; no longer updating this directory.
 ## Windows 10
 Legacy; no longer updating this directory. 
 
+=======
+# Microsoft-365
+>>>>>>> 931d609c2d10224dc4b332029ecffbe6f8f8e007
